@@ -57,5 +57,5 @@ Hospital-Management-System/
 
 ## 👤 Author
 
-**Atmajo Burman**  
+**SWATI SARDAR**  
 B.Tech CSE Dept., NIT Durgapur
